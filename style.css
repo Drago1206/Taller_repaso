@@ -1,0 +1,53 @@
+.img{
+    display: block;
+    margin: 0 auto;
+}
+input[type="text"]{
+    display: block;
+}
+input[type="submit"]{
+    display: block;
+    margin-top: 10px;
+}
+table thead tr{
+    background: #fe8737;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table thead tr th{
+    padding: 10px;
+}
+table tbody tr{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table tbody tr:nth-child(2n+1){
+    background: #ffd9ce;
+}
+table tbody tr:nth-child(2n){
+    background: #ffeee7;
+}
+#myForm{
+    display: block;
+    margin-left: 32em;
+}
+#dialog{
+    display: block;
+    margin-left: 16em;
+    margin-bottom: 2cm;
+}
+.enviar{
+    display: block;
+    margin-left: 5em;
+    padding: 8px;
+    border-radius: 8px;
+}
+.parrafo{
+    background-color: #ee7503;
+    text-align: center;
+    border: 1.5px solid black;
+    margin-bottom: 1em;
+}
+body{
+    background-color: rgb(233, 172, 93);
+}
