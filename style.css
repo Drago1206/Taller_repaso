@@ -14,3 +14,6 @@ form,div{
     margin-left:46%;
     margin-right: 36%;
 }
+th,td,table{
+    border: 1.5px solid black;
+}
