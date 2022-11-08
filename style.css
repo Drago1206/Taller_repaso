@@ -2,29 +2,15 @@
 body{
     background-color: rgb(233, 172, 93);
 }
-table,th,td{
-    border: 1.5px solid black;
-    margin-top: 6em;
-    margin-left: 68em;
-}
 h1{
     text-align: center;
-    font-size: 5em;
-    font-family: 'Times New Roman', Times, serif;
-    color: rgb(78, 72, 72);
 }
-div{
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 3em;
+p{
+    margin-left:42%;
+    margin-right: 36%;
 }
-form{
-    margin-left: 64em;
-}
-th{
-    background-color: rgb(201, 98, 15);
-    font-family: 'Times New Roman', Times, serif;
-}
-td{
-    background-color: lightsalmon;
+form,div{
+    margin-top: 3em;
+    margin-left:46%;
+    margin-right: 36%;
 }
